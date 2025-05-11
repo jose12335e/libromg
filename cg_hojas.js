@@ -12,7 +12,7 @@ function showChapter(index) {
 function nextpage0() {
   window.location.href = "capitulo1.html";
       }      
-function prevPage() {
+function prevpage() {
   window.location.href = "introduccion.html";
 }
 function nextpage() {
@@ -55,7 +55,7 @@ function nextpage7() {
   window.location.href = "conclucion.html";
 }
 function inicio() {
-  window.location.href = "../hojas.html";
+  window.location.href = "hojas.html";
 }
 
 document.getElementById('nextBtn').addEventListener('click', () => {
